@@ -1,7 +1,8 @@
 ## Hi there 👋
 
 <!--
-**Monika-kc/Monika-kc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Monika-kc**
+---
 
 Here are some ideas to get you started:
 
